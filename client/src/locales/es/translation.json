@@ -1,0 +1,14 @@
+{
+    "add_new_task": "Agregar nueva tarea",
+    "enter_your_task": "Ingrese su tarea",
+    "add": "Agregar",
+    "update": "Actualizar",
+    "task_cannot_be_empty": "La tarea no puede estar vacía",
+    "task_already_exists": "La tarea ya existe",
+    "my_tasks": "Mis tareas",
+    "all": "Todas",
+    "active": "Activas",
+    "completed": "Completadas",
+    "status": "Estado"
+  }
+  

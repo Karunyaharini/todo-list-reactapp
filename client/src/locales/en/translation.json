@@ -1,0 +1,14 @@
+{
+    "add_new_task": "Add New Task",
+    "enter_your_task": "Enter your task",
+    "add": "Add",
+    "update": "Update",
+    "task_cannot_be_empty": "Task cannot be empty",
+    "task_already_exists": "Task already exists",
+    "my_tasks": "My Tasks",
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed",
+    "status": "Status"
+  }
+  
